@@ -6,6 +6,6 @@ Date: 2016-02-25
 Author: Julian Bruns, Viliam Simko
 Maintainer: Julian Bruns <bruns@fzi.de>
 Description: Title and description will be changed later.
-License: MIT + LICENSE
+License: MIT + file LICENSE
 LazyData: TRUE
 RoxygenNote: 5.0.1
