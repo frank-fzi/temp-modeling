@@ -1,0 +1,11 @@
+Package: biggis.tempmodel
+Type: Package
+Title: Temperature modeling (BigGIS project)
+Version: 0.1
+Date: 2016-02-25
+Author: Julian Bruns, Viliam Simko
+Maintainer: Julian Bruns <bruns@fzi.de>
+Description: Title and description will be changed later.
+License: MIT + LICENSE
+LazyData: TRUE
+RoxygenNote: 5.0.1
