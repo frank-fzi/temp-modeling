@@ -7,5 +7,7 @@ Author: Julian Bruns, Viliam Simko
 Maintainer: Julian Bruns <bruns@fzi.de>
 Description: Title and description will be changed later.
 License: MIT + file LICENSE
-LazyData: TRUE
+LazyData: yes
+Suggests:
+    testthat
 RoxygenNote: 5.0.1
